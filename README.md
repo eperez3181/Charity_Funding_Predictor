@@ -1,4 +1,4 @@
-# Deep-Learning
+# Charity Funding Predictor
 ## Report on the Neural Network Model
 Created by: Estela Perez
 ## Overview
